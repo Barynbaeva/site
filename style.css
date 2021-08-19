@@ -1,0 +1,21 @@
+body {
+    background-color: violet
+}
+
+.container {
+    margin: o auto;
+    padding: 0;
+    width: 1140px;
+}
+
+h1,h3 {
+    color: rgb(3, 64, 75);
+}
+
+hr {
+    background-color: burlywood;
+    border-style: none;
+    border-color: cyan;
+    border-width: 5px;
+    height: 2px;
+}
